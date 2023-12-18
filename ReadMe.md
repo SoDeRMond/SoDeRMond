@@ -10,8 +10,8 @@
 	<a target="blank" href="https://stackoverflow.com/users/21290440">
 		<img src="https://img.shields.io/badge/stackoverflow-%2324292e.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white">
 	</a>
-	<a target="blank" href="https://codewars.com/users/SoDeRMond">
-		<img src="https://img.shields.io/badge/codewars-%2324292e.svg?&style=for-the-badge&logo=codewars&logoColor=white">
+	<a target="blank" href="https://leetcode.com/SoDeRMond">
+		<img src="https://img.shields.io/badge/leetcode-%2324292e.svg?&style=for-the-badge&logo=leetcode&logoColor=white">
 	</a>
 </div>
 
