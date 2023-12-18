@@ -32,10 +32,12 @@
 			<img src="src/images/languages/html.png" title="HTML" width="60" height="60" />
 			<img src="src/images/languages/css.png" title="CSS" width="60" height="60" />
 			<img src="src/images/languages/js.png" title="JS" width="60" height="60" />
+			<img src="src/images/languages/sass.png" title="Sass" width="60" height="60" />
 		</td>
 		<td style="width:33%; text-align:center">
 			<img src="src/images/tools/git.png" title="Git" width="60" height="60" />
 			<img src="src/images/tools/dotnet.png" title=".NET" width="60" height="60" />
+			<img src="src/images/tools/gulp.png" title="Gulp" width="60" height="60" />
 		</td>
 	</tr>
 </table>
