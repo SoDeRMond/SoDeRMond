@@ -25,9 +25,6 @@
 		<td style="width:33%; text-align:center">
 			<h3>Tools</h3>
 		</td>
-		<td style="width:33%; text-align:center">
-			<h3>CodeWars</h3>
-		</td>
 	</tr>
 	<tr height="120">
 		<td style="width:33%; text-align:center">
@@ -39,9 +36,6 @@
 		<td style="width:33%; text-align:center">
 			<img src="src/images/tools/git.png" title="Git" width="60" height="60" />
 			<img src="src/images/tools/dotnet.png" title=".NET" width="60" height="60" />
-		</td>
-		<td style="width:33%; text-align:center">
-			<img src="https://www.codewars.com/users/SoDeRMond/badges/large" title="CodeWars" height="60" />
 		</td>
 	</tr>
 </table>
