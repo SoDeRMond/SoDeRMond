@@ -39,9 +39,6 @@
 		<td style="width:33%; text-align:center">
 			<img src="src/images/tools/git.png" title="Git" width="60" height="60" />
 			<img src="src/images/tools/dotnet.png" title=".NET" width="60" height="60" />
-			<img src="src/images/tools/azure.png" title="Azure" width="60" height="60" />
-			<img src="src/images/tools/react.png" title="React" width="60" height="60" />
-			<img src="src/images/tools/mysql.png" title="MySQL" width="60" height="60" />
 		</td>
 		<td style="width:33%; text-align:center">
 			<img src="https://www.codewars.com/users/SoDeRMond/badges/large" title="CodeWars" height="60" />
