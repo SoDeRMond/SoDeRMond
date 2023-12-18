@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="ResourcesData/Icons/Avatar/SoDeRMond.png" />
+	<img src="src/images/sodermond.png" />
 	<h1>SoDeRMond</h1>
 </div>
 
@@ -31,17 +31,17 @@
 	</tr>
 	<tr height="120">
 		<td style="width:33%; text-align:center">
-			<img src="ResourcesData/Icons/Languages/CSharp.png" title="C#" width="60" height="60" />
-			<img src="ResourcesData/Icons/Languages/HTML.png" title="HTML" width="60" height="60" />
-			<img src="ResourcesData/Icons/Languages/CSS.png" title="CSS" width="60" height="60" />
-			<img src="ResourcesData/Icons/Languages/JS.png" title="JS" width="60" height="60" />
+			<img src="src/images/languages/csharp.png" title="C#" width="60" height="60" />
+			<img src="src/images/languages/html.png" title="HTML" width="60" height="60" />
+			<img src="src/images/languages/css.png" title="CSS" width="60" height="60" />
+			<img src="src/images/languages/js.png" title="JS" width="60" height="60" />
 		</td>
 		<td style="width:33%; text-align:center">
-			<img src="ResourcesData/Icons/Tools/Git.png" title="Git" width="60" height="60" />
-			<img src="ResourcesData/Icons/Tools/DotNET.png" title=".NET" width="60" height="60" />
-			<img src="ResourcesData/Icons/Tools/Azure.png" title="Azure" width="60" height="60" />
-			<img src="ResourcesData/Icons/Tools/React.png" title="React" width="60" height="60" />
-			<img src="ResourcesData/Icons/Tools/MySQL.png" title="MySQL" width="60" height="60" />
+			<img src="src/images/tools/git.png" title="Git" width="60" height="60" />
+			<img src="src/images/tools/dotnet.png" title=".NET" width="60" height="60" />
+			<img src="src/images/tools/azure.png" title="Azure" width="60" height="60" />
+			<img src="src/images/tools/react.png" title="React" width="60" height="60" />
+			<img src="src/images/tools/mysql.png" title="MySQL" width="60" height="60" />
 		</td>
 		<td style="width:33%; text-align:center">
 			<img src="https://www.codewars.com/users/SoDeRMond/badges/large" title="CodeWars" height="60" />
