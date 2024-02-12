@@ -35,6 +35,7 @@
 			<img src="./src/images/web/html.png" alt="HTML">
 			<img src="./src/images/web/css.png" alt="CSS">
 			<img src="./src/images/web/sass.png" alt="Sass">
+			<img src="./src/images/web/react.png" alt="React">
 		</td>
 		<td>
 			<img src="./src/images/tools/dotnet.png" alt=".NET">
