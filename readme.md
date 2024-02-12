@@ -21,8 +21,9 @@
 
 <table style="text-align: center">
 	<tr>
-		<th style="text-align: center; width: 25%">Languages</th>
-		<th style="text-align: center; width: 25%">Tools</th>
+		<th style="text-align: center; width: 33%">Languages</th>
+		<th style="text-align: center; width: 33%">Web</th>
+		<th style="text-align: center; width: 33%">Tools</th>
 	</tr>
 	<tr height="96px">
 		<td>
@@ -37,6 +38,7 @@
 			<img src="./src/images/tools/git.png" alt="Git">
 			<img src="./src/images/tools/gulp.png" alt="Gulp">
 		</td>
+		<td></td>
 	</tr>
 </table>
 
