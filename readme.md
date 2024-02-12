@@ -28,17 +28,18 @@
 	<tr height="96px">
 		<td>
 			<img src="./src/images/languages/csharp.png" alt="C#">
-			<img src="./src/images/languages/html.png" alt="HTML">
-			<img src="./src/images/languages/css.png" alt="CSS">
 			<img src="./src/images/languages/js.png" alt="JS">
-			<img src="./src/images/languages/sass.png" alt="Sass">
+		</td>
+		<td>
+			<img src="./src/images/web/html.png" alt="HTML">
+			<img src="./src/images/web/css.png" alt="CSS">
+			<img src="./src/images/web/sass.png" alt="Sass">
 		</td>
 		<td>
 			<img src="./src/images/tools/dotnet.png" alt=".NET">
 			<img src="./src/images/tools/git.png" alt="Git">
 			<img src="./src/images/tools/gulp.png" alt="Gulp">
 		</td>
-		<td></td>
 	</tr>
 </table>
 
