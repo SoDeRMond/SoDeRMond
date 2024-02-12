@@ -4,13 +4,13 @@
 </div>
 
 <div align="center">
-	<a target="_blank" href="https://github.com/SoDeRMond">
+	<a href="https://github.com/SoDeRMond" target="_blank">
 		<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 	</a>
-	<a target="_blank" href="https://stackoverflow.com/users/21290440">
+	<a href="https://stackoverflow.com/users/21290440" target="_blank">
 		<img src="https://img.shields.io/badge/stackoverflow-%2324292e.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
 	</a>
-	<a target="_blank" href="https://leetcode.com/SoDeRMond">
+	<a href="https://leetcode.com/SoDeRMond" target="_blank">
 		<img src="https://img.shields.io/badge/leetcode-%2324292e.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
 	</a>
 </div>
