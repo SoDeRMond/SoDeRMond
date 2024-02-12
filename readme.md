@@ -29,6 +29,7 @@
 		<td>
 			<img src="./src/images/languages/csharp.png" alt="C#">
 			<img src="./src/images/languages/js.png" alt="JS">
+			<img src="./src/images/languages/ts.png" alt="TS">
 		</td>
 		<td>
 			<img src="./src/images/web/html.png" alt="HTML">
