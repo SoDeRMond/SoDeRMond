@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="./src/images/sodermond.png" alt="SoDeRMond Avatar">
+	<img src="./src/images/logo.png" alt="SoDeRMond Avatar">
 	<h1>SoDeRMond</h1>
 </div>
 
